@@ -1741,7 +1741,7 @@ aside::-webkit-scrollbar{
 /*Media Queries for mobile.*/
 
 
-@media (max-width: 330px){
+@media (max-width: 480px){
 
 	/*Media Queries for Header*/
 
